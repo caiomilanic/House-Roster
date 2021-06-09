@@ -1,6 +1,7 @@
 # House roster
 
 ### Program used to import student data into a database, and then produce class rosters.
+This project is part of Harvard's CS50x course.
 
 ## Background
 
@@ -25,6 +26,6 @@ Colin Creevey, born 1981
 
 ## Author
 
-Caio Milani
+*caiomilanic*
 
 find me @ https://github.com/caiomilanic
