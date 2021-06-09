@@ -1,4 +1,4 @@
-# Houses
+# House roster
 
 ### Program used to import student data into a database, and then produce class rosters.
 
